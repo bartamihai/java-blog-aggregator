@@ -1,1 +1,17 @@
-/target
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+.classpath
+.project
+.settings/
+target/
+src/test/resources/configs/environments/local/
+/LogReport.log.2
+/LogReport.log.1
+/chromedriver.log
+/run1
+/Thumbs.db
